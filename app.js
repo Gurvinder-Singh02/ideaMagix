@@ -3,7 +3,7 @@ $(".owl-carousel").owlCarousel({
   loop: true, // Continuously loop the carousel
   margin: 20, // Space between cards
   nav: true, // Show navigation buttons
-  lazyLoad: true,
+  //lazyLoad: true,
   loop: true,
 
   responsive: {
@@ -26,7 +26,7 @@ $(".owl-carousel-story").owlCarousel({
   loop: true, // Continuously loop the carousel
   margin: 20, // Space between cards
   nav: true, // Show navigation buttons
-  lazyLoad: true,
+  //lazyLoad: true,
   loop: true,
 
   responsive: {
